@@ -1,6 +1,8 @@
 package org.example.functionalinterface.predicate;
 
 
+import java.util.Collections;
+import java.util.List;
 import java.util.function.Predicate;
 
 public class Main {

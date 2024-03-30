@@ -1,0 +1,19 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+@
+Practice/pom.xml,f/a/faf3ea01c0bc8bfb6acd14b5ec1bff44f541255f
+y
+IPractice/src/main/java/org/example/functionalinterface/custom/Person.java,f/2/f23438ae08944a61b961e85b3690fcb3f806a186
+w
+GPractice/src/main/java/org/example/functionalinterface/custom/Main.java,e/3/e389680011c3b4802a9768cfa8aa8300a014aedb
+z
+JPractice/src/main/java/org/example/functionalinterface/custom/Student.java,1/d/1d83f209cecabdd735f3c47181b4f02639ba86c4
+y
+IPractice/src/main/java/org/example/functionalinterface/consumer/Main.java,4/7/4759dd43342f500a2eb791d914772659284c46fc
+y
+IPractice/src/main/java/org/example/functionalinterface/supplier/Main.java,7/e/7e2491661e69660c28549ff2d19ee19362a6f333
+y
+IPractice/src/main/java/org/example/functionalinterface/function/Main.java,f/7/f71a815c314bbd05651826e144b8f06b020a2c89
+z
+JPractice/src/main/java/org/example/functionalinterface/predicate/Main.java,0/0/000b52fa01268869c8f08b903b290c7380a7b021

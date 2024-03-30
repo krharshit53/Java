@@ -1,0 +1,11 @@
+
+N
+java:S1611	"1Remove the parentheses around the "var" parameter(²Ø²™8®ÍÖ¯è1
+I
+java:S1602	",Remove useless curly braces around statement(²Ø²™8®ÍÖ¯è1
+]
+java:S1612	"@Replace this lambda with method reference 'System.out::println'.(²Ø²™8®ÍÖ¯è1
+W
+java:S6213	":Rename this variable to not match a restricted identifier.(²Ø²™8®ÍÖ¯è1
+L	java:S106
+"+Replace this use of System.out by a logger.(™áŠóşÿÿÿÿ8¯ÍÖ¯è1
